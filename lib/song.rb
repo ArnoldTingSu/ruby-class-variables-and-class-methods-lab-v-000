@@ -37,6 +37,7 @@ def self.count
      end
    end
    genre_count
+ end
      
      
      
