@@ -31,7 +31,9 @@ def self.count
      else
        artist_count[artist] = 1
      end
-
+   end
+   artist_count
+ end
 
  def self.genres
    @@genres.uniq
