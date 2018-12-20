@@ -35,6 +35,7 @@ def self.count
      else
        genre_count[genre] = 1
      end
+  end
   
    
 
