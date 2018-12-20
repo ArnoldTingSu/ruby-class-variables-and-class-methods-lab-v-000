@@ -29,8 +29,8 @@ def self.count
  
  def self.genre_count
    genre_count = {}
-   @@genres.each do |artist|
-     if artists[]
+   @@genres.each do |genre|
+     if genres_count[genre]
    
 
 
